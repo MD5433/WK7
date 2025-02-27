@@ -23,7 +23,7 @@ public class Business extends Person{
         this.number = number;
     }
 
-    //method
+    //second display method
 
     @Override
     public void display() {
