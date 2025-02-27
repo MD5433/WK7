@@ -26,6 +26,7 @@ public class Person {
         this.email = email;
     }
 
+    //first display method
     public void display(){
         System.out.println("The person's name is " + name + " and their email is " + email);
     }
